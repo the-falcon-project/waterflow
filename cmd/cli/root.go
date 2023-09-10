@@ -1,4 +1,4 @@
-package cmd
+package cli
 
 import (
 	"fmt"
@@ -17,6 +17,7 @@ var rootCommand = &cobra.Command{
 }
 
 func init() {
+	rootCommand.AddCommand(runCommand())
 	rootCommand.AddCommand(createCommand)
 	rootCommand.AddCommand(udpateCommand)
 	rootCommand.AddCommand(listCommand)
