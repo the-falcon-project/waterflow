@@ -74,6 +74,8 @@ Refer to the YAML Structure Guide for a detailed explanation of the configuratio
 ## Roadmap
 Our project roadmap outlines upcoming features and improvements. Feel free to check out the Roadmap to see what's planned and provide your feedback.
 
+> Will add this in some time.
+
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to Waterflow, please follow our Contribution Guidelines and open a pull request.
+We welcome contributions from the community! If you'd like to contribute to Waterflow, please follow our [Contribution Guidelines](contribution.md) and open a pull request.
 
