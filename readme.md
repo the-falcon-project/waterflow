@@ -50,9 +50,9 @@ waterflow stop my-workflow-id
 waterflow delete my-workflow-id 
 
 ```
-Check out how to schedule a flow with Waterflow [here](https://github.com/the-falcon-project/waterflow/wiki/Waterflow-Scheduling).
+Refer **[Waterflow Scheduling Guide](https://github.com/the-falcon-project/waterflow/wiki/Waterflow-Scheduling)** to schedule a new flow.
 
-Refer to the YAML Structure Guide for a detailed explanation of the configuration format.
+
 
 ## Roadmap
 Our project roadmap outlines upcoming features and improvements. Feel free to check out the Roadmap to see what's planned and provide your feedback.
