@@ -50,24 +50,7 @@ waterflow stop my-workflow-id
 waterflow delete my-workflow-id 
 
 ```
-## YAML Structure
-Define your workflows and tasks in a YAML configuration file. Here's an example of the YAML structure:
-
-```yaml
-workflows:
-  - id: workflow1
-    name: Data Processing Workflow
-    description: This workflow automates data processing.
-    tasks:
-      - id: task1
-        name: Download Data
-        description: Download data from source
-        commands:
-          - cmd: wget
-            args: ["-O", "data.zip", "https://example.com/data.zip"]
-        schedule: "@daily"
-
-```
+Check out how to schedule a flow with Waterflow [here](https://github.com/the-falcon-project/waterflow/wiki/Waterflow-Scheduling).
 
 Refer to the YAML Structure Guide for a detailed explanation of the configuration format.
 
