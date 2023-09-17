@@ -50,7 +50,7 @@ waterflow stop my-workflow-id
 waterflow delete my-workflow-id 
 
 ```
-Refer **[Waterflow Scheduling Guide](https://github.com/the-falcon-project/waterflow/wiki/Waterflow-Scheduling)** to schedule a new flow.
+Refer **[Waterflow Scheduling Guide](https://github.com/the-falcon-project/waterflow/wiki/Scheduling)** to schedule a new flow.
 
 
 
